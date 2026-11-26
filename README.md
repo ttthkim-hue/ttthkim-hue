@@ -13,8 +13,8 @@ Building deterministic, cryptographically auditable (`RO-Crate 1.1` + `SHA-256`)
 
 ## Featured Open-Source Stack
 
-### 1. [`heliostack`](https://github.com/ttthkim-hue/heliostack) — Open Solar PV, OpenFOAM Thermal & ESS Workbench (`v0.3.1` · `AGPL-3.0-or-later`)
-- **Install & Live Tools:** `pip install heliostack` ([PyPI](https://pypi.org/project/heliostack/)) · [Live Browser Workbench](https://ttthkim-hue.github.io/heliostack/) · [NLnet Roadmap](https://github.com/ttthkim-hue/heliostack/blob/main/docs/ROADMAP_TO_NLNET_20270103.md)
+### 1. [`heliostack`](https://github.com/ttthkim-hue/heliostack) — Open Solar PV, OpenFOAM Thermal & ESS Workbench (`v0.3.2` · `AGPL-3.0-or-later`)
+- **Install & Live Tools:** `pip install heliostack` ([PyPI](https://pypi.org/project/heliostack/)) · [Live Browser Workbench](https://ttthkim-hue.github.io/heliostack/) · [Zenodo DOI](https://doi.org/10.5281/zenodo.24491741) · [v1.0 Roadmap](https://github.com/ttthkim-hue/heliostack/blob/main/docs/ROADMAP.md)
 - **What It Solves:** Frees PV + `LiFePO4` ESS simulation from Windows-only proprietary binaries (`PVsyst`, `PV*SOL`, `HOMER Pro`) and closed SaaS (`HelioScope`), empowering individuals, citizen energy cooperatives, local installers, and academic labs with local data sovereignty and `0%` runtime generative AI.
 - **Verified Engineering & Telemetry:**
   - Clean-room `.PAN`/`.OND` single-diode & MPPT invariant checks, vectorized 3D ray-box obstacle shading, and **Copernicus GLO-30 DEM** 36-azimuth Alpine horizon ray-casting (`MAE 1.25–1.57°` across Innsbruck, Bolzano, Zermatt vs. EU PVGIS `printhorizon`).
